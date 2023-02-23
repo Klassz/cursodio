@@ -1,4 +1,4 @@
-package conhecendojava.anatomia_de_classes;
+package anatomia_de_classes;
 
 public class Anatomia3 {
     public static void main(String[] args) {
